@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Wt5lViewTool::Renderer.copyright "Jon Olson", "All Rights Reserved"
+```
 
 ## Development
 
